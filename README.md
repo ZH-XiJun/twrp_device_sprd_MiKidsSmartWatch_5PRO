@@ -1,5 +1,7 @@
 # TWRP device tree for Xiaoxun MiKidsSmartWatch_5PRO (MiKidsSmartWatch_5PRO)
 
+说[普通话](README-ZH.md)！
+
 > [!Caution]
 > This is a SPRD device, that means you need to sign the image through 
 this [workflow](https://github.com/ZH-XiJun/action_sprd_signer) before flashing, or your device will be bricked. 
