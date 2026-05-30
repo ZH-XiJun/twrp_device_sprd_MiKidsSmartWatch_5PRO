@@ -1,13 +1,13 @@
 # TWRP device tree for coolpad CP23NV3 (CP23NV3)
 
 > [!Caution]
-> 这个**展讯设备**需要先用这个[工作流](https://github.com/ZH-XiJun/action_sprd_signer)签名之后才能刷入，否则会变砖哦
+> 这个**展讯设备**的twrp镜像需要先用这个[工作流](https://github.com/ZH-XiJun/action_sprd_signer)签名之后才能刷入，否则会变砖哦
 
 这个设备树由 [twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) 生成
 
 ## 下载
 
-点[这里](https://github.com/ZH-XiJun/Action-TWRP-Builder/releases)，然后搜`CP23NV3`就能找到你的设备了。
+点[这里](https://github.com/ZH-XiJun/Action-TWRP-Builder/releases)，然后搜`MiKidsSmartWatch_5PRO`就能找到你的设备了。
 
 如果发现搜到了很多个Releases，请下载最新发布的版本，因为那通常是我修过BUG并进行了适配的完善版本（至少比以前的版本完善）
 
@@ -19,7 +19,7 @@
 
 我的[Fork](https://github.com/zh-xijun/action-twrp-builder)对于老旧安卓系统有做适配
 
-该设备树相对于源码的存放路径（DEVICE_PATH）：`device/coolpad/CP23NV3`
+该设备树相对于源码的存放路径（DEVICE_PATH）：`device/sprd/MiKidsSmartWatch_5PRO`
 
 ```
 #

@@ -21,9 +21,13 @@ Some devices have two or more releases. Pls make sure you have downloaded the la
 
 If the device cannot be found, that means I haven't built it yet or I failed to build it. Please build it by yourself.
 
+Place the device tree here: `device/sprd/MiKidsSmartWatch_5PRO`
+
 ## Build
 
 I used [Action TWRP builder](https://github.com/azwhikaru/Action-TWRP-Builder) for building TWRP. Fork it and read its README.md
+
+However, you can try [my fork](https://github.com/zh-xijun/Action-TWRP-Builder) too.
 
 ```
 #
